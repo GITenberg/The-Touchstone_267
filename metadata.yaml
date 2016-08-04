@@ -1,0 +1,39 @@
+_repo: The-Touchstone_267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: "The Touchstone is a novella written by Edith Wharton. It was published\
+  \ in 1900 and was her first published novella.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1995-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '267'
+  wikidata: Q7769676
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Rejection (Psychology) -- Fiction'
+- !lcsh 'Love-letters -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- !lcsh 'Women novelists -- Fiction'
+- GITenberg
+title: The Touchstone
+url: http://www.gutenberg.org/ebooks/267
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Touchstone
