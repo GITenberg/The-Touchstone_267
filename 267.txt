@@ -11,7 +11,7 @@ Title: The Touchstone
 Author: Edith Wharton
 
 Posting Date: July 12, 2008 [EBook #267]
-Release Date: May, 1995
+[Last updated: September 4, 2017]
 
 Language: English
 
@@ -38,16 +38,16 @@ By Edith Wharton
 I
 
 
-Professor Joslin, who, as our readers are doubtless aware, is engaged in
+"Professor Joslin, who, as our readers are doubtless aware, is engaged in
 writing the life of Mrs. Aubyn, asks us to state that he will be greatly
 indebted to any of the famous novelist's friends who will furnish
 him with information concerning the period previous to her coming to
 England. Mrs. Aubyn had so few intimate friends, and consequently so few
 regular correspondents, that letters will be of special value. Professor
 Joslin's address is 10 Augusta Gardens, Kensington, and he begs us to
-say that he "will promptly return any documents entrusted to him."
+say that he will promptly return any documents entrusted to him."
 
-Glennard dropped the Spectator and sat looking into the fire. The club
+Glennard dropped the SPECTATOR and sat looking into the fire. The club
 was filling up, but he still had to himself the small inner room, with
 its darkening outlook down the rain-streaked prospect of Fifth Avenue.
 It was all dull and dismal enough, yet a moment earlier his boredom had
@@ -75,13 +75,13 @@ a man rich enough to do what he pleased--had he been capable of
 being pleased--yet barred from all conceivable achievement by his own
 impervious dulness; while, a few feet off, Glennard, who wanted only
 enough to keep a decent coat on his back and a roof over the head of the
-woman he loved, Glennard, who had sweated, toiled, denied himself for
+woman he loved Glennard, who had sweated, toiled, denied himself for
 the scant measure of opportunity that his zeal would have converted into
 a kingdom--sat wretchedly calculating that, even when he had resigned
 from the club, and knocked off his cigars, and given up his Sundays out
 of town, he would still be no nearer attainment.
 
-The Spectator had slipped to his feet and as he picked it up his eye
+The SPECTATOR had slipped to his feet and as he picked it up his eye
 fell again on the paragraph addressed to the friends of Mrs. Aubyn. He
 had read it for the first time with a scarcely perceptible quickening of
 attention: her name had so long been public property that his eye passed
@@ -94,7 +94,7 @@ looked at their first meeting, the poor woman of genius with her long
 pale face and short-sighted eyes, softened a little by the grace of
 youth and inexperience, but so incapable even then of any hold upon
 the pulses. When she spoke, indeed, she was wonderful, more wonderful,
-perhaps, than when later, to Glennard's fancy at least, the conscious
+perhaps, than when later, to Glennard's fancy at least, the consciousness
 of memorable things uttered seemed to take from even her most intimate
 speech the perfect bloom of privacy. It was in those earliest days, if
 ever, that he had come near loving her; though even then his sentiment
@@ -855,7 +855,7 @@ Glennard felt a gradual relaxing of his nerves.
 "I suppose one has to pay a lot for letters like that?" he heard himself
 asking, with a glance in the direction of the volume he had laid aside.
 
-"Oh, so-do--depends on circumstances." Flamel viewed him thoughtfully.
+"Oh, so-so--depends on circumstances." Flamel viewed him thoughtfully.
 "Are you thinking of collecting?"
 
 Glennard laughed. "Lord, no. The other way round."
@@ -1257,7 +1257,7 @@ VI
 THE week in town had been sultry, and the men, in the Sunday
 emancipation of white flannel and duck, filled the deck-chairs of the
 yacht with their outstretched apathy, following, through a mist of
-cigarette-smoke, the flitting inconsequences of the women. The part
+cigarette-smoke, the flitting inconsequences of the women. The party
 was a small one--Flamel had few intimate friends--but composed of more
 heterogeneous atoms than the little pools into which society usually
 runs. The reaction from the chief episode of his earlier life had
@@ -1287,7 +1287,7 @@ consideration were founded on that distribution of effects which is the
 wonder of those who admire a highly cultivated country. The third lady
 of the trio which Glennard's fancy had put to such unflattering uses,
 was bound by circumstances to support the claims of the other two. This
-was Mrs. Dresham, the wife of the editor of the Radiator. Mrs. Dresham
+was Mrs. Dresham, the wife of the editor of the RADIATOR. Mrs. Dresham
 was a lady who had rescued herself from social obscurity by assuming the
 role of her husband's exponent and interpreter; and Dresham's leisure
 being devoted to the cultivation of remarkable women, his
@@ -1304,7 +1304,7 @@ Mrs. Armiger, the latest embodiment of Dresham's instinct for the
 remarkable, was an innocent beauty who for years had distilled
 dulness among a set of people now self-condemned by their inability
 to appreciate her. Under Dresham's tutelage she had developed into a
-"thoughtful woman," who read his leaders in the Radiator and bought the
+"thoughtful woman," who read his leaders in the RADIATOR and bought the
 books he recommended. When a new novel appeared, people wanted to know
 what Mrs. Armiger thought of it; and a young gentleman who had made a
 trip in Touraine had recently inscribed to her the wide-margined result
@@ -2561,7 +2561,7 @@ police-station."
 
 "Stolen?" Flamel echoed. "The letters were stolen?"
 
-Glennard burst into a coarse laugh. "How much longer to you expect me to
+Glennard burst into a coarse laugh. "How much longer do you expect me to
 keep up that pretence about the letters? You knew well enough they were
 written to me."
 
